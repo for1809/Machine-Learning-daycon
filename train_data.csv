@@ -1,0 +1,6 @@
+﻿ID,age,education,hours.per.week,occupation,race,target
+TRAIN_0000,75,Some-college,30,Craft-repair,White,0
+TRAIN_0001,23,Bachelors,40,Exec-managerial,White,0
+TRAIN_0002,34,Some-college,12,Other-service,White,0
+TRAIN_0003,34,HS-grad,36,Adm-clerical,White,0
+TRAIN_0004,51,HS-grad,60,Farming-fishing,White,0
