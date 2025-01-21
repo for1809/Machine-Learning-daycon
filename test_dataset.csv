@@ -1,6 +1,6 @@
-﻿ID,age,education,hours.per.week,occupation,race
-TEST_0000,23,7th-8th,40,Machine-op-inspct,Black
-TEST_0001,41,HS-grad,40,Sales,White
-TEST_0002,47,HS-grad,38,Prof-specialty,White
-TEST_0003,31,HS-grad,40,Machine-op-inspct,White
-TEST_0004,22,Some-college,40,Adm-clerical,White
+﻿Brand,Model,정비 이력등급,주행거리
+Toyota,SUV,보통,45000
+Ford,Truck,없음,30000
+Honda,Sedan,정기적,40000
+Chevrolet,Sedan,정기적,50000
+Toyota,Truck,없음,55000

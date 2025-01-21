@@ -1,0 +1,7 @@
+ID,age,education,hours.per.week,occupation,race,
+               TEST_0000,23,7th-8th,40,Machine-op-inspct,Black
+                TEST_0001,41,HS-grad,40,Sales,White
+                TEST_0002,47,HS-grad,38,Prof-specialty,White
+                TEST_0003,31,HS-grad,40,Machine-op-inspct,White
+                TEST_0004,22,Some-college,40,Adm-clerical,White
+                
